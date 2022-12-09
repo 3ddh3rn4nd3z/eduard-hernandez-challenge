@@ -1,5 +1,5 @@
 pipeline {
-    agente {
+    any agente {
         label 'worker-linux'
     }
 
