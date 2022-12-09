@@ -1,6 +1,5 @@
 pipeline {
     any agente {
-        label 'worker-linux'
     }
 
     stages {
